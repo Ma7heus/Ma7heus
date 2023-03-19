@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Back-End;
+- 🔭 I’m currently working on <a href="https://www.linkedin.com/company/cooperativa-agroindustrial-alfa/mycompany/"> Cooperalfa Back-End ERP;
 - 🌱 I’m currently JavaEE and its main specifications;
 - 📖 I’m currently reading Effective Java by Joshua Bloch
 
