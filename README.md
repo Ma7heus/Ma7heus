@@ -44,9 +44,4 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/matheus-henrique-saldias-palacios-pietro-biasi-322034193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![Snake animation](https://github.com/Ma7heus/Ma7heus/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
+![snake gif](https://github.com/Ma7heus/Ma7heus/blob/output/github-contribution-grid-snake.svg)
