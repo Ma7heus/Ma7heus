@@ -1,9 +1,8 @@
 ### Hi, I'm Matheus, Welcome to my Profile!
 
- 
-<div align="center">
-   <img src="https://github.com/Ma7heus/Ma7heus/assets/86833526/c512b0e2-c65a-4702-b6f4-496d9be0d061"/>
-</div>
+
+![meingift3](https://github.com/Ma7heus/Ma7heus/assets/86833526/b8745e3f-21ba-4f72-8691-db71aef5635e)
+
 
 - 💻 I'm a Professional Software Developer, I love Java and creating new usefull things.
 - 🌱 I’m currently working on [Cooperalfa](https://www.cooperalfa.com.br).
