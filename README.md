@@ -1,5 +1,8 @@
-### Hi there, I'm Matheus 👋
-
+### Hi guys, I'm Matheus, I'm a professional Software Developer
+ 
+<div align="center">
+   <img src="https://github.com/Ma7heus/Ma7heus/assets/86833526/c512b0e2-c65a-4702-b6f4-496d9be0d061"/>
+</div>
 
 - 🔭 I’m currently working on <a href="https://github.com/Ma7heus/Money-Control-Angular"> Money Control;
 - 🌱 I’m currently JavaEE and its main specifications;
