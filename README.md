@@ -5,8 +5,8 @@
 
 
 - 💻 I'm a Professional Software Developer, I love Java and creating new usefull things.
-- 🌱 I’m currently working on [Cooperalfa](https://www.cooperalfa.com.br).
-- 🔭 I am also developing [Money Control](https://github.com/Ma7heus/Money-Control-Angular), check it out!
+- 🌱 I’m currently working on [Cooperalfa](https://www.cooperalfa.com.br)
+- 🔭 I am also developing [Money Control](https://github.com/Ma7heus/Money-Control-Angular) check it out!
 
 ##
 
