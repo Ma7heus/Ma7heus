@@ -2,7 +2,7 @@
 
 Full-stack developer and tech entrepreneur from Santa Catarina, Brazil, passionate about building scalable solutions and solving real-world problems with code.
 
-- 💼 CTO & Co-founder at [Ouichef](https://kernelsistemas.com.br) - Restaurant management SaaS platform
+- 💼 CTO at [Ouichef](https://kernelsistemas.com.br) - Restaurant management SaaS platform
 - 🏢 Senior Developer specializing in enterprise systems and multi-tenant architectures
 - 🚀 Currently migrating legacy systems to modern stacks (PHP → Node.js/NestJS)
 - 🔧 Building WhatsApp API integrations and Brazilian fiscal compliance solutions (NFC-e)
