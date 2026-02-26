@@ -2,9 +2,10 @@
 
 Full-stack developer and tech entrepreneur from Santa Catarina, Brazil, passionate about building scalable solutions and solving real-world problems with code.
 
-- 💼 CTO at [Ouichef](https://kernelsistemas.com.br) - Restaurant management SaaS platform
-- 🏢 Senior Developer specializing in enterprise systems and multi-tenant architectures
-- 🚀 Currently migrating legacy systems to modern stacks (PHP → Node.js/NestJS)
+- 🏢 Senior Developer at [Conceito Contabilidade](https://conceitocontabilidade.com.br).
+- 💼 Sócio developer at [Ouichef](https://kernelsistemas.com.br) - Restaurant management SaaS platform
+- 🏢 Specializing in enterprise systems and multi-tenant architectures
+- 🚀 Currently migrating legacy systems to modern stacks (PHP → Node.js/NestJS/Java Spring)
 - 🔧 Building WhatsApp API integrations and Brazilian fiscal compliance solutions (NFC-e)
 
 ##
@@ -20,23 +21,14 @@ Full-stack developer and tech entrepreneur from Santa Catarina, Brazil, passiona
 
 ### 🛠 Tech Stack
 
-**Backend & Architecture**
 <div style="display: inline_block" align="center">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-</div>
-
-**Frontend & Mobile**
-<div style="display: inline_block" align="center">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
-
-**Infrastructure & DevOps**
-<div style="display: inline_block" align="center">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
