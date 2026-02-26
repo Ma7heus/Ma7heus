@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus 👋
 
-Full-stack developer and tech entrepreneur from Santa Catarina, Brazil, passionate about building scalable solutions and solving real-world problems with code.
+Full-stack developer and tech entrepreneur passionate about building scalable solutions and solving real-world problems with code.
 
 - 🏢 Senior Developer at [Conceito Contabilidade](https://conceitocontabilidade.com.br).
 - 💼 Sócio developer at [Ouichef](https://kernelsistemas.com.br) - Restaurant management SaaS platform
