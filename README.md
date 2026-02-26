@@ -3,7 +3,7 @@
 Full-stack developer and tech entrepreneur passionate about building scalable solutions and solving real-world problems with code.
 
 - 🏢 Senior Developer at [Conceito Contabilidade](https://conceitocontabilidade.com.br).
-- 💼 Sócio developer at [Ouichef](https://kernelsistemas.com.br) - Restaurant management SaaS platform
+- 💼 Partner Developer at [Ouichef](https://kernelsistemas.com.br) - Restaurant management SaaS platform
 - 🏢 Specializing in enterprise systems and multi-tenant architectures
 - 🚀 Currently migrating legacy systems to modern stacks (PHP → Node.js/NestJS/Java Spring)
 - 🔧 Building WhatsApp API integrations and Brazilian fiscal compliance solutions (NFC-e)
