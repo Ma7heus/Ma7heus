@@ -4,15 +4,6 @@ Full-stack developer and tech entrepreneur passionate about building scalable so
 
 ##
 
-<div align="center">
-  <a href="https://github.com/Ma7heus">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ma7heus&show_icons=true&theme=tokyonight&hide=contribs,issues"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma7heus&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
-##
-
 ### 🛠 Tech Stack
 
 <div style="display: inline_block" align="center">
